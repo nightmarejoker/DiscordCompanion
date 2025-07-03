@@ -1,0 +1,17 @@
+# Discord Bot Token - Get this from Discord Developer Portal
+DISCORD_TOKEN=your_discord_bot_token_here
+
+# OpenAI API Key - Required for AI conversation features
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: National Library of Israel API Key (uses guest key by default)
+# NLI_API_KEY=your_nli_api_key_here
+
+# Optional: Sefaria API settings (currently using public API)
+# SEFARIA_API_KEY=your_sefaria_api_key_if_needed
+
+# Logging level (DEBUG, INFO, WARNING, ERROR)
+LOG_LEVEL=INFO
+
+# Security Note: Never commit actual API keys to version control
+# Always use environment variables for sensitive information
