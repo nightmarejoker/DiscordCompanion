@@ -1,0 +1,91 @@
+2025-07-03 14:21:33,486 - __main__ - INFO - Web server started on port 8080
+2025-07-03 14:21:33,486 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 14:21:33,487 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 14:21:33,545 - __main__ - INFO - Discord bot started
+2025-07-03 14:21:33,546 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 14:21:33,546 - discord.client - INFO - logging in using static token
+2025-07-03 14:21:33,729 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 14:21:33,729 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 14:21:43,643 - __main__ - INFO - Bot already running, exiting to prevent duplicate responses
+2025-07-03 14:21:44,616 - __main__ - INFO - Web server started on port 8080
+2025-07-03 14:21:44,616 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 14:21:44,617 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 14:21:44,643 - __main__ - INFO - Discord bot started
+2025-07-03 14:21:44,643 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 14:21:44,643 - discord.client - INFO - logging in using static token
+2025-07-03 14:21:44,812 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 14:21:44,812 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 14:29:50,807 - __main__ - INFO - Web server started on port 8080
+2025-07-03 14:29:50,808 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 14:29:50,808 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 14:29:50,903 - __main__ - INFO - Discord bot started
+2025-07-03 14:29:50,903 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 14:29:50,903 - discord.client - INFO - logging in using static token
+2025-07-03 14:29:51,140 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 14:29:51,140 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 14:29:51,183 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:29:51 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:29:51,247 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:29:51 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:29:57,943 - __main__ - INFO - Bot already running, exiting to prevent duplicate responses
+2025-07-03 14:29:58,972 - __main__ - INFO - Web server started on port 8080
+2025-07-03 14:29:58,972 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 14:29:58,973 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 14:29:59,005 - __main__ - INFO - Discord bot started
+2025-07-03 14:29:59,006 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 14:29:59,006 - discord.client - INFO - logging in using static token
+2025-07-03 14:29:59,191 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 14:29:59,192 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 14:29:59,297 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:29:59 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:29:59,316 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:29:59 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:35:35,765 - __main__ - INFO - Web server started on port 8080
+2025-07-03 14:35:35,765 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 14:35:35,766 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 14:35:35,796 - __main__ - INFO - Discord bot started
+2025-07-03 14:35:35,796 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 14:35:35,796 - discord.client - INFO - logging in using static token
+2025-07-03 14:35:35,978 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 14:35:35,978 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 14:35:40,960 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:35:40 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:35:40,961 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:35:40 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:36:09,980 - __main__ - INFO - Bot already running, exiting to prevent duplicate responses
+2025-07-03 14:36:11,008 - __main__ - INFO - Web server started on port 8080
+2025-07-03 14:36:11,008 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 14:36:11,008 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 14:36:11,036 - __main__ - INFO - Discord bot started
+2025-07-03 14:36:11,036 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 14:36:11,036 - discord.client - INFO - logging in using static token
+2025-07-03 14:36:11,212 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 14:36:11,213 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 14:36:11,464 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:36:11 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:36:11,831 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:36:11 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:56:40,951 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:56:40 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:56:52,442 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:56:52 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 14:56:52,588 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:14:56:52 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:23:43,944 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:23:43 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:23:47,237 - __main__ - ERROR - An error occurred: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8080): address already in use
+2025-07-03 15:23:47,237 - __main__ - ERROR - An error occurred: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8080): address already in use
+2025-07-03 15:23:47,237 - __main__ - INFO - Application shutting down...
+2025-07-03 15:23:47,238 - __main__ - INFO - Application shutting down...
+2025-07-03 15:23:48,014 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:23:48 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:23:48,016 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:23:48 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:24:31,907 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:24:31 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:24:37,201 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:24:37 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:24:37,203 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:24:37 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:36:45,500 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:36:45 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:36:46,498 - __main__ - ERROR - An error occurred: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8080): address already in use
+2025-07-03 15:36:46,498 - __main__ - INFO - Application shutting down...
+2025-07-03 15:36:46,587 - __main__ - ERROR - An error occurred: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8080): address already in use
+2025-07-03 15:36:46,588 - __main__ - INFO - Application shutting down...
+2025-07-03 15:36:46,934 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:36:46 +0000] "GET / HTTP/1.1" 200 0 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:36:47,196 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:36:47 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 15:36:47,197 - aiohttp.access - INFO - 172.31.128.48 [03/Jul/2025:15:36:47 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 16:45:08,243 - __main__ - INFO - Bot already running, exiting to prevent duplicate responses
+2025-07-03 16:45:08,243 - __main__ - INFO - Web server started on port 8080
+2025-07-03 16:45:08,246 - __main__ - WARNING - Discord token may be in wrong format. Ensure it's a proper bot token.
+2025-07-03 16:45:08,246 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-03 16:45:08,355 - __main__ - INFO - Discord bot started
+2025-07-03 16:45:08,356 - __main__ - INFO - Both web server and Discord bot are running
+2025-07-03 16:45:08,356 - discord.client - INFO - logging in using static token
+2025-07-03 16:45:08,556 - __main__ - ERROR - Discord bot error: Improper token has been passed.
+2025-07-03 16:45:08,556 - __main__ - INFO - Keeping web server running for health checks
+2025-07-03 16:45:09,102 - aiohttp.access - INFO - 172.31.128.8 [03/Jul/2025:16:45:09 +0000] "GET / HTTP/1.1" 200 382 "https://8ad2a063-c62e-4860-835e-30ce22358c86-00-217kx7zozp2y3.worf.replit.dev:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
+2025-07-03 16:45:10,274 - aiohttp.access - INFO - 172.31.128.8 [03/Jul/2025:16:45:10 +0000] "GET / HTTP/1.1" 200 382 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 18.5)"
